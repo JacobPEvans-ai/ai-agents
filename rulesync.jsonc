@@ -1,0 +1,6 @@
+{
+  "targets": ["claudecode", "codexcli", "geminicli"],
+  "features": ["rules", "skills"],
+  "baseDirs": ["."],
+  "delete": true
+}
