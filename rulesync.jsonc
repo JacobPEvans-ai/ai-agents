@@ -1,0 +1,6 @@
+{
+  "targets": ["agentsmd", "claudecode", "codexcli", "hermesagent"],
+  "features": ["rules", "skills"],
+  "baseDirs": ["."],
+  "delete": true
+}
